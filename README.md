@@ -1,2 +1,2 @@
 # Cloud Engineering exercises
-### This repo contains folders for Altschool practice exercise  
+### This contains Altschool practice exercise for Cloud Engineering School  
