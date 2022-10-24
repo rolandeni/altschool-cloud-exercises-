@@ -1,2 +1,2 @@
 # Cloud Engineering exercises
-### This contains Altschool practice exercise for Cloud Engineering School  
+### This Repo contains assessment exercises for Cloud Engineering Altschool.  
