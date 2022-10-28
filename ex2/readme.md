@@ -1,1 +1,12 @@
-# Task
+# Task 2
+![task image](images/shot1.png)
+1. **cal**	 To Display calendar. ![task image](images/shot2.png)
+2. **su**  To change user to root. ![task image](images/shot4.png)
+3. **Whoami** Displays user. ![task image](images/shot11.png)
+4. **df**	Checks the disk space in the system. ![task image](images/shot6.png)
+5. **cd ~** To enter home directory ![task image](images/shot66.png)
+6. **groups** 	Displays the group name to which the current user belongs to. ![task image](images/shot66.png)
+7. **file**  Displays the type of file.![task image](images/shot5.png)
+8. **locate** 	Searches a file. ![task image](images/shot3.png)
+9. **exit** To exit a directory or root user.![task image](images/shot10.png)
+10. **date** displays the current date. ![task image](images/shot55.png)

@@ -1,11 +1,5 @@
-1.cal	Displays calendar
 2.chage	Sets an expiration date for a user account.
 3.chsh	Changes the shell.comm	Compares two streams or files.
-4.df	Checks the disk space in the system.
 5.file	Displays the type of file.
-6.groupadd	Creates a group.
-7.groups	Displays the group name to which the current user belongs to.
-8.locate	Searches a file in the database.
-9.sort	sorts the content in alphabetical order.
 10.su	It allows a user to run a shell as another user.
 

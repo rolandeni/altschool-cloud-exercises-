@@ -1,8 +1,9 @@
-# Task
+# Task 5
 ### To install php 
-### To display the output of a directory
+### To display the contents of a directory
 
 ![task image](task.png)
-OUTPUT
-
++ To submit the output of /etc/apt/sources.lis
 ![task image](OUTPUT.png)
++ to submit the output of php -v
+![task image](out2.png)
